@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="Archivo:DSports.png" tvg-name="dsport" group-title="-",dsport
+https://streamtpnew.com/global1.php?stream=dsports
+#EXTINF:-1 tvg-name="Espn premium" group-title="-",Espn premium
+https://tv-libre.net/en-vivo/espn-premium/
+#EXTINF:-1 tvg-name="Tnt SPort" group-title="-",Tnt SPort
+https://tv-libre.net/en-vivo/tnt-sports/
+#EXTINF:-1 tvg-name="Espn co" group-title="-",Espn co
+https://streamtpnew.com/global1.php?stream=espn
